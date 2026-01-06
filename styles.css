@@ -1,0 +1,76 @@
+body {
+	 background-image: url("https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/e781f4c6-01d6-47b0-bd76-563ad4c0818c/DSC06616.jpg");
+            font-family: "Inter", sans-serif;
+}
+
+h1 {
+            color: #1B5299;
+			font-family: "Archivo Black", sans-serif;
+			font-weight: 400;
+			text-align: center;
+
+}
+
+h2 {
+			color: #1B5299;
+			font-family: "Archivo Black", sans-serif;
+			font-weight: 400;
+			text-align: center;
+
+		}
+
+h3 {
+			color: #1B5299;	
+			font-family: "Archivo Black", sans-serif;
+			font-weight: 400;
+		    
+		}
+h4 {
+            color: #1f242b;	
+			font-family: "Archivo Black", sans-serif;
+			font-weight: 300;
+        }
+
+p {
+			color: rgb(66, 65, 65);
+			font-family: "Inter", sans-serif;
+		    font-optical-sizing: auto;
+		    font-weight: 200;
+		    font-style: "Inter", sans-serif;
+        }
+.col-md-5 {
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	margin: auto; 
+}
+.col-sm-4.bg-light {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+.col-md-3 {
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	margin: auto; 
+}
+.col-sm-9 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+.col-md-6 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto; 
+}
+.container.mt-2 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto; 
+}
